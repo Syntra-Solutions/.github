@@ -4,12 +4,6 @@ We're a small group of devs who write code after hours — no VC funding, no big
 
 ---
 
-![Stars](https://img.shields.io/github/stars/Syntra-Solutions?style=social)
-![Forks](https://img.shields.io/github/forks/Syntra-Solutions?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/Syntra-Solutions?style=flat-square)
-
----
-
 ## 🧱 What We’re Up To
 
 ### 🔐 [Entryptor](https://syntra-solutions.pl/project/entryptor)
@@ -22,9 +16,7 @@ A modern, secure file encryption app for macOS built with Python and PyQt6.
 
 > Your files, your rules. No cloud, no BS.
 
-![Entryptor Screenshot](https://raw.githubusercontent.com/Syntra-Solutions/Entryptor/main/assets/screenshot.png)
 
----
 
 ### 🍽 [Polish Restaurant Discovery Map](https://syntra-solutions.pl/project/restaurant-map)
 
@@ -34,7 +26,6 @@ A full-stack interactive map app for discovering Polish restaurants and food spo
 - Real-time analytics with scalable data aggregation
 - Built for performance, built for fun
 
-![Polish Food Map Screenshot](https://raw.githubusercontent.com/Syntra-Solutions/polish-food-map/main/assets/screenshot.png)
 
 ---
 
@@ -43,13 +34,11 @@ A full-stack interactive map app for discovering Polish restaurants and food spo
 Just a couple of devs coding in the evenings, trying not to break production.  
 We build what we’d want to use, learn new stuff along the way, and try to ship clean, secure code that does what it says on the tin.
 
----
 
 ## 🛠 Wanna Help or Say Hi?
 
 If you're into secure software, interactive maps, or just want to talk shop — open an issue, drop a star, or send a PR.
 
----
 
 ## 📦 More Coming Soon
 
