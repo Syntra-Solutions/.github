@@ -1,5 +1,3 @@
-# Syntra-Solutions
-
 We're a small group of devs who write code after hours — no VC funding, no big promises, just real tools built because we care about doing things right.
 
 ---
