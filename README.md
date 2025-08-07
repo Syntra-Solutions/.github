@@ -12,7 +12,7 @@ We're a small group of devs who write code after hours — no VC funding, no big
 
 ## 🧱 What We’re Up To
 
-### 🔐 [Entryptor](https://syntra-solutions.pl/projects/entryptor)
+### 🔐 [Entryptor](https://syntra-solutions.pl/project/entryptor)
 
 A modern, secure file encryption app for macOS built with Python and PyQt6.
 
